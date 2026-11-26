@@ -26,9 +26,21 @@ section {
     border-radius: 10px;
 }
 
+
 footer {
-    background-color: #2457a7;
+    background-color: #193f78;
     color: white;
     text-align: center;
-    padding: 15px;
+    padding: 25px 15px;
+    margin-top: 30px;
+}
+
+footer p {
+    margin: 8px 0;
+    line-height: 1.5;
+}
+
+footer p:first-child {
+    font-weight: bold;
+    font-size: 18px;
 }
